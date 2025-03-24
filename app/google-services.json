@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "349421959529",
+    "project_id": "deepmovie-4f3b0",
+    "storage_bucket": "deepmovie-4f3b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349421959529:android:2fa15383a0f28947b625f8",
+        "android_client_info": {
+          "package_name": "com.vn.nguyenhoanganhtu.deepmovieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349421959529-ap4mi1avi384pkj316mb8slhlr0rl0dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vn.nguyenhoanganhtu.deepmovieapp",
+            "certificate_hash": "231302814d1db7bc743d404081b173b9cca87e4a"
+          }
+        },
+        {
+          "client_id": "349421959529-2h2hff920r2unoebdv7o75nicq4pvts4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiwitdvXYn2SPmLFOZHl8NkDbHYjl8nzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349421959529-2h2hff920r2unoebdv7o75nicq4pvts4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
